@@ -1,10 +1,11 @@
-;) join my discord for doubts
+## join my discord for doubts ;)
 
 [![Discord support](https://discordapp.com/api/guilds/789283433955852289/widget.png?style=banner2)](https://discord.gg/kWdJFzf4rj)
 
-#OFICIAL README.md BELOW
 
-##Polymorph
+# OFICIAL README.md BELOW
+
+## Polymorph
 [![](http://cf.way2muchnoise.eu/versions/polymorph.svg)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 [![](http://cf.way2muchnoise.eu/short_polymorph_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/polymorph/files)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?&style=flat-square)](https://www.gnu.org/licenses/lgpl-3.0)
