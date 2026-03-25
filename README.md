@@ -54,6 +54,10 @@ Please report all bugs, issues, and feature requests to the
 
 For non-technical support and questions, join the developer's [Discord](https://discord.gg/JWgrdwt).
 
+## Port Collaboration
+
+Fabric 1.21.11 port collaboration by Deernose.
+
 ## License
 
 All source code and assets are licensed under LGPL 3.0.
