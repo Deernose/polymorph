@@ -10,7 +10,7 @@ pluginManagement {
                 }
             }
             filter {
-                includeGroup("net.fabricmc")
+                includeGroupAndSubgroups("net.fabricmc")
                 includeGroup("fabric-loom")
             }
         }
@@ -52,5 +52,13 @@ plugins {
 rootProject.name = "${mod_id}"
 include("common")
 include("fabric")
-include("forge")
-include("neoforge")
+
+def requestedTasks = gradle.startParameter.taskNames
+def fabricOnlyBuild = !requestedTasks.isEmpty() && requestedTasks.every { task ->
+    task.contains("fabric") || task.contains("common") || task == "buildSrc:build"
+}
+
+if (!fabricOnlyBuild) {
+    include("forge")
+    include("neoforge")
+}

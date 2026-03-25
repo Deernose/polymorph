@@ -1,4 +1,11 @@
-# Polymorph
+## join my discord for doubts ;)
+
+[![Discord support](https://discordapp.com/api/guilds/789283433955852289/widget.png?style=banner2)](https://discord.gg/kWdJFzf4rj)
+
+
+# OFICIAL README.md BELOW
+
+## Polymorph
 [![](http://cf.way2muchnoise.eu/versions/polymorph.svg)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 [![](http://cf.way2muchnoise.eu/short_polymorph_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/polymorph/files)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?&style=flat-square)](https://www.gnu.org/licenses/lgpl-3.0)
@@ -53,6 +60,10 @@ Please report all bugs, issues, and feature requests to the
 [issue tracker](https://github.com/illusivesoulworks/polymorph/issues).
 
 For non-technical support and questions, join the developer's [Discord](https://discord.gg/JWgrdwt).
+
+## Port Collaboration
+
+Fabric 1.21.11 port collaboration by Deernose.
 
 ## License
 
